@@ -45,4 +45,4 @@ mvp-entrega-cestas/
 [Preencher após o teste com o representante externo: resultados por tarefa, tempos, notas e decisão.]
 
 ## Privacidade
-Não suba documentos, endereços, telefones ou dados reais de famílias. Este repositório é público.
+Não suba documentos, endereços, telefones ou dados reais de famílias. Este repositório é público...
